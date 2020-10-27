@@ -1,4 +1,4 @@
-# imooc-datav-report-dev
+# Echart 学习项目 -- demo
 
 ## Project setup
 ```
